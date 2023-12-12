@@ -21,8 +21,8 @@ tf_states
 ## Initial setup:
 Clone the repository using:
 ```
-git clone repo
-cd repo-name
+git clone https://github.com/ankitkumarakt746/tf-sample-gcp-pubsub.git
+cd tf-sample-gcp-pubsub
 ```
 
 Make sure gcloud is configured if not use 
