@@ -30,8 +30,8 @@ Make sure gcloud is configured if not use
 
 
 ## Populate Values
-\#main.tf
-├── bucket
+\#main.tf  
+├── bucket  
 ├── prefix
 
 \#variable.tf
